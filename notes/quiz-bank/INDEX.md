@@ -100,6 +100,8 @@
 | [[set-090]] | 윤문대기 (Claude) |
 | [[set-091]] | 윤문대기 (Claude) |
 | [[set-092]] | 윤문대기 (Claude) |
+| [[set-093]] | 윤문대기 (Claude) |
+| [[set-094]] | 윤문대기 (Claude) |
 | [[set-501]] | 윤문대기 (Codex) |
 | [[set-502]] | 윤문대기 (Codex) |
 
