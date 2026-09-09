@@ -104,6 +104,8 @@
 | [[set-094]] | 윤문대기 (Claude) |
 | [[set-095]] | 윤문대기 (Claude) |
 | [[set-096]] | 윤문대기 (Claude) |
+| [[set-097]] | 윤문대기 (Claude) |
+| [[set-098]] | 윤문대기 (Claude) |
 | [[set-501]] | 윤문대기 (Codex) |
 | [[set-502]] | 윤문대기 (Codex) |
 
